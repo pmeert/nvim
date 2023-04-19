@@ -1,0 +1,6 @@
+return {
+  -- add symbol
+  {
+    "ryanoasis/vim-devicons",
+  },
+}
